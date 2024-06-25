@@ -1,1 +1,1 @@
-# SOC_Avyay23B3971
+This is the repository made for SOC 
