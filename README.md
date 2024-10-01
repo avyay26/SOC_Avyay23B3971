@@ -5,4 +5,4 @@
 * The datasets I used for training the above model includes dataset.csv<br>
 
 
-* Translator.ipynb is the translator I tried to modify.
+* Tran.ipynb is the translator file I made.
