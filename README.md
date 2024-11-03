@@ -7,4 +7,4 @@
 
 * Tran.ipynb is the translator file I made.
 
-  <b> Email Ham spam is a practice project, done as a part of the main  project AI language detector , both with similar concepts and procedures.
+  <b> Email Ham spam is a practice project, done as a part of the main  project (AI language detector) , both with similar concepts and procedures.
